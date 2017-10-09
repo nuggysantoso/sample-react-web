@@ -1,0 +1,42 @@
+/*html, body{
+	height: 100%;
+	width: 100%
+}
+*/
+body{
+	margin: auto;
+	background-image: url('/img/background_main_menu.jpg');
+	background-position: center center;
+	background-repeat:  no-repeat;
+	background-attachment: fixed;
+	background-size:  cover;
+	background-color: #999;
+} 
+
+.logo{
+	width: 100%;
+	height: 30%;
+}
+
+.Logo-Ngudiutomo{
+	text-align:center;
+	vertical-align:middle;
+	height:15%;
+	width:15%;
+	display:table-cell;           ;
+	margin:15px auto;
+	position: relative;	
+}
+
+.content{
+	width: 100%;
+	height: 70%;
+}
+
+h1{
+	font-size:30px;
+	text-align:center;
+	display:block;
+	color:#000084;
+	padding:10% 0px;
+}
